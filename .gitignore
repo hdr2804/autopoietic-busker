@@ -1,0 +1,4 @@
+*.wav
+*.mp4
+!corner-at-dawn.mp4
+media-generation-*
